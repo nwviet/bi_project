@@ -1,5 +1,8 @@
-![image](https://github.com/nwviet/bi_project/assets/93283149/9266d8d9-b5bc-46dd-8656-1e2a8c2dea41)# Visualization and Discussion
+# Visualization and Discussion
+![image](https://github.com/nwviet/bi_project/assets/93283149/9266d8d9-b5bc-46dd-8656-1e2a8c2dea41)
+
 https://ueleduvn-my.sharepoint.com/:u:/g/personal/vietnq21406_st_uel_edu_vn/EYzOW5_4gm5Ih4BZgfd_ubgBxiFh6_bMQOkThPpajqoaDg?e=cO89bW 
+
 ## Overview dashboard
 ![image](https://github.com/nwviet/bi_project/assets/93283149/bfbadfdc-7625-46b9-9464-1d01cbddbfc4)
 - The purchasing process seems efficient based on high supplier availability, contract compliance, and low defect rate.
